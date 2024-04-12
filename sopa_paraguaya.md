@@ -1,11 +1,13 @@
 *Ingredientes
-*chcolo en lata 1
+*carne
 *leche 1 taza
-*harina de maiz 1 1/2
+*aceite de maiz 1 1/2
 *2 huevos
-*cebolla 300gr
-*queso (alguno picante) 200gr
+*pan
+\*queso (alguno picante) 200gr
 
 = Elaboracion
 
-* Freir la cebolla
+- Freir la milanesa
+
+  ![Milanesa](images.jpeg "Milanesa a la suiza")
